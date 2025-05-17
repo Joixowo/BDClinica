@@ -1,0 +1,3 @@
+C:/Users/Josué/Desktop/ProyectoPrograma/cmake-build-debug/CMakeFiles/ProyectoPrograma.dir
+C:/Users/Josué/Desktop/ProyectoPrograma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Josué/Desktop/ProyectoPrograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
