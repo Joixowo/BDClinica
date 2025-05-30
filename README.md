@@ -1,2 +1,2 @@
 # BDClinica
-BAse de datos de clinica medica en clion
+Base de datos de clinica medica en clion
